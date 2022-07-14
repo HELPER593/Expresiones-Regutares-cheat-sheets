@@ -33,6 +33,13 @@ Conjuntos de Caracteres:
 [^ ]    - Encuentra caracteres que no están dentro de corchetes
 |       - Condicional O
 
+Remplazar:
+
+$0      - Obtiene toda la expresión
+$1      - Obtiene el contenido del grupo 1
+
+
+
 
 
 \1      - Referencias
